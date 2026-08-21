@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krabibi
 - 👀 I’m interested in Backend and rock climbing
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning surviving Comp Sci
 - ⚡ Fun fact: I'm immortal peak 350rr in valorant
 
 <!---
